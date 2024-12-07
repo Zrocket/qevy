@@ -16,7 +16,7 @@ authors = [
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bevy = "0.14.2"
+bevy = "0.15"
 qevy-derive = { path = "qevy-derive" }
 qevy-types = { path = "qevy-types" }
 anyhow = "1.0.89"
